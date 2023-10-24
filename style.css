@@ -112,5 +112,7 @@ font-weight: 500;
         width: 20px;
         padding: 2px;
     }
-    
+    .col img{
+        width: 25px;
+    }
   }
